@@ -19,7 +19,7 @@ tags: tryhackme whatweb joomla joomscan searchsploit sqli john linpeas sudo yum 
 
 ## Summary
 
-Hello, i don't know why this box rate is "hard" more like easy/medium. let's start!
+Hello, i don't know why this box rate is "hard" more like easy/medium. It's about exploiting a vulnerable joomla version. First privesc is finding a plaintext password in a config file & privesc to root is about yum. Let's start!
 
 ## Enumeration/Reconnaissance
 
